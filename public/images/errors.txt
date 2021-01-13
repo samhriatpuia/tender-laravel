@@ -1,0 +1,16 @@
+[2019-7-24 09:50:01] layer "negp.gov.in": Unsupported extension: in
+[2019-7-24 09:50:01] layer "digital.india": Unsupported extension: india
+[2019-7-24 09:50:01] layer "mizoram.gov.in": Unsupported extension: in
+[2019-7-24 09:50:01] layer "osv.nic.in": Unsupported extension: in
+[2019-7-24 09:50:01] layer "mygov.in": Unsupported extension: in
+[2019-7-24 09:50:01] layer "india.gov.in": Unsupported extension: in
+[2019-7-24 09:50:01] layer "deity.gov.in": Unsupported extension: in
+[2019-7-24 09:50:01] layer "negp.gov.in copy": Expected end of input but "c" found.
+[2019-7-24 09:50:01] layer "digital.india copy": Expected end of input but "c" found.
+[2019-7-24 09:50:01] layer "mizoram.gov.in copy": Expected end of input but "c" found.
+[2019-7-24 09:50:01] layer "osv.nic.in copy": Expected end of input but "c" found.
+[2019-7-24 09:50:01] layer "mygov.in copy": Expected end of input but "c" found.
+[2019-7-24 09:50:01] layer "india.gov.in copy": Expected end of input but "c" found.
+[2019-7-24 09:50:01] layer "deity.gov.in copy": Expected end of input but "c" found.
+[2019-7-24 09:50:01] layer "epro.png": Duplicate path: epro.png
+[2019-7-24 09:50:01] layer "india.png": Duplicate path: india.png
